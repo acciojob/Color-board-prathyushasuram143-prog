@@ -22,7 +22,7 @@
                   e.target.style.backgroundColor="grey"
 
                   e.target.style.boxShadow="none"
-                },500)
+                },1000)
     
             })
 
